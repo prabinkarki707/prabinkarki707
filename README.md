@@ -47,6 +47,6 @@ Equipped with the necessary skills to collect, organize, and analyze large sets 
 - Data storytelling
 
 ## Contact Information
-- Fredrick House, Fulford Rd, York YO10 4EA
+- 31 Hubmoor Lane, YO24 1EY, York
 - +44-7827-950905
 - prabin@europe.com
