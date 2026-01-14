@@ -1,52 +1,53 @@
-# PRABIN KARKI | DATA SCIENTIST
-<img src="https://github.com/prabinkarki707/prabinkarki707/assets/110835959/6896ae9c-71e2-4ed3-b49b-f776e125b527" alt="Blue Navy Gradient Personal LinkedIn Profile Picture" style="width:200px; height:200px;">
+# Prabin Karki
+### Full-Stack Engineer | AI & Blockchain Developer
+**Currently: Data Science Placement @ BMW Group**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-prabinkarki.com-000000?style=for-the-badge)](https://prabinkarki.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prabinkarkipk-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prabinkarkipk)
+[![Email](https://img.shields.io/badge/Email-prabin%40europe.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabin@europe.com)
+
+---
 
 ## Professional Summary
+Full-stack engineer specializing in high-performance decentralized systems and AI integration. Proven track record in optimizing industrial workflows at **BMW** and architecting complex Web3 platforms. Focused on sub-100ms performance, scalable system architecture, and real-time data visualization.
 
-Equipped with the necessary skills to collect, organize, and analyze large sets of data. With my attention to detail and critical thinking abilities, I am committed to delivering valuable insights and contributing to business growth.
+---
 
-### Technical Proficiency
-- Excel
-- SQL
-- Python
-- Tableau
+## Technical Stack
 
-## Core Competencies
-- Data Interpretation
-- Statistical Analysis
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, Solidity, SQL |
+| **Frameworks & Libs** | Next.js, Node.js, React Native, Socket.io, WebRTC, Tailwind CSS |
+| **Infrastructure** | AWS, Kubernetes, Docker, PostgreSQL, Redis, Git |
+| **Web3** | Solana, Ethereum, Quicknode RPC, Token-Gating, Wallet-Connect |
+| **Data & AI** | Computer Vision, Image Processing, ETL Pipelines, Grafana |
 
-## Professional Experience
+---
 
-### Radient Technologies
-**Junior Hardware Developer | October 2019 - May 2022**
-- Collaborated with senior engineers to develop and test hardware systems for various projects.
-- Designed and implemented custom hardware solutions using programming languages such as Python.
-- Assisted in the debugging and troubleshooting of hardware systems, utilizing critical thinking skills to identify and resolve technical issues.
+## Key Experience
 
-### Self-Taught Programmer
-**March 2022 - Present**
-- Developed a solid foundation in Python programming through self-study and online resources.
-- Demonstrated proficiency in using Python for data analysis and manipulation, including working with datasets and data visualization.
-- Proficient in SQL and spreadsheets, with a good understanding of databases.
-- Experience with apps scripts and other automation tools to enhance data analysis workflows.
+### BMW | Data Science Placement
+*Jul 2024 — Aug 2025*
+*   **AI Solution:** Co-founded InSPEX, a computer vision tool increasing defect detection accuracy from 90% to 99.8% across multiple production lines.
+*   **Optimization:** Reengineered quality monitoring web apps, reducing image retrieval latency from 3s to under 100ms via optimized caching and pagination.
+*   **Visualization:** Built VNA Dashboards with 10+ KPIs for live facility screens, eliminating manual calculations and saving hundreds of annual man-hours.
+
+### DaoDail | Lead Architect
+*Aug 2025 — Present*
+*   **Architecture:** Designed a full-stack decentralized platform featuring token-gated video meetings and persistent chat rooms using Solana/Eth integration.
+*   **Performance:** Implemented 3-layer caching (Memory/AsyncStorage/Postgres) and FlashList optimizations for 60 FPS mobile performance.
+*   **Security:** Integrated AES-256 encryption for sensitive data and multi-chain token-gating systems for real-time wallet verification.
+
+---
 
 ## Education
+*   **Bachelors in Computer Science** | York St John University
+*   *Oct 2022 — Jul 2026* | **Current Grade: 81%**
 
-### Bachelor of Computer Science
-**2022 - Present | York St John University**
-- Data cleaning and transformation
-- Data visualization
-- Database management
-- Communication skills
+---
 
-### Data Science Skills Bootcamp
-**March 2023 - Present | HyperionDev Skills Bootcamp**
-- Data analysis
-- Machine learning
-- Statistical modeling
-- Data storytelling
-
-## Contact Information
-- 31 Hubmoor Lane, YO24 1EY, York
-- +44-7827-950905
-- prabin@europe.com
+## Contact
+*   **Location:** York, UK
+*   **Phone:** +44 7827 950905
+*   **Website:** [prabinkarki.com](https://prabinkarki.com)
