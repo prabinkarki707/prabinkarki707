@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-prabin%40europe.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabin@europe.com)
 
 ---
-
+## alt account: https://github.com/pkasadaodial
 ## Professional Summary
 Full-stack engineer specializing in high-performance decentralized systems and AI integration. Proven track record in optimizing industrial workflows at **BMW** and architecting complex Web3 platforms. Focused on sub-100ms performance, scalable system architecture, and real-time data visualization.
 
